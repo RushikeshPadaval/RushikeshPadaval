@@ -1,4 +1,4 @@
-![Rushikesh Padaval](https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![Rushikesh Padaval]()
 
 <h1 align="center">Hi 👋, I'm Rushikesh Padaval</h1>
 <h3 align="center">A passionate full stack developer and student from Maharashtra</h3>
