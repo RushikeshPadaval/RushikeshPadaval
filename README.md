@@ -29,4 +29,3 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushikeshpadaval&show_icons=true&locale=en" alt="rushikeshpadaval" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshpadaval&" alt="rushikeshpadaval" /></p>
