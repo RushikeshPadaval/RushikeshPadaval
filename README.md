@@ -24,4 +24,4 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)! -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maurerkrisztian&" alt="maurerkrisztian" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshpadaval&" alt="rushikeshpadaval" /></p>
