@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rushikesh Padaval</h1>
-<h3 align="center">A passionate full stack developer and student from Maharashtra</h3>
+<h3 align="center">A passionate Web developer and student from Maharashtra</h3>
 
 #### 👷 Check out what I'm currently working on
 
