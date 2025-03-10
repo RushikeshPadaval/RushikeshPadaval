@@ -25,7 +25,7 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 - dev.to:  -->
 
 <!-- ### CV https://www.maurerkrisztian.com/
-
+.
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)! -->
 
