@@ -5,9 +5,9 @@
 
 #### 👷 Check out what I'm currently working on
 
- - [RushikeshPadaval/TaskFlow](https://github.com/RushikeshPadaval/TaskFlow) - A full-stack-web application for helping and managing the task using AI. *(2 days ago)*.
+ - [RushikeshPadaval/Adaptive Automation of Workflow](https://github.com/RushikeshPadaval/Adaptive-Automation-of-Workflow) - A full-stack-web application for helping and managing the task using AI.
  
- - [RushikeshPadaval/Job-Portal]([https://github.com/RushikeshPadaval/a](https://github.com/RushikeshPadaval/Ayodhya_webinternship) - A full-stack web application for applying the jobs  
+ - [RushikeshPadaval/Job-Portal]([https://github.com/RushikeshPadaval/a](https://github.com/RushikeshPadaval/) - A full-stack web application for applying the jobs  
 
 #### Check My Work
  - [RushikeshPadaval/BookStore](https://github.com/RushikeshPadaval/BookStore) - A full-stack web application for managing and exploring books. Built with modern technologies, it allows users to browse, search, and manage a collection of books.
