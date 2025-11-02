@@ -1,5 +1,21 @@
 
-<h2 align="left">Hi 👋! My name Rushikesh Padaval and I'm a Web Developer.</h2>
+### Hey!
+
+👾 I'm **Rushikeshツ**.
+
+Programmer. I loves traveling, exploring new places and seeking inspiration in new projects.
+
+
+ [![views](https://komarev.com/ghpvc/?username=RushikeshPadaval&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/RushikeshPadaval) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/grindhousedev/grindlines)
+
+<br>
+
+<p align="center">
+  A developer from India, enthusiastic about JavaScript, ReactJS and many more. ☁️ 
+  <br/>I enjoy the challenge of reimagining existing apps & scripts in my own unique way.
+  <br/>By creating these projects from scratch, I can ensure complete control over every aspect of their design and functionality.
+</p>
+
 
 ###
 
