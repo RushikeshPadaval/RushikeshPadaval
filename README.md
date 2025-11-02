@@ -1,35 +1,31 @@
 
+<h2 align="left">Hi 👋! My name Rushikesh Padaval and I'm a Web Developer.</h2>
 
-<h1 align="center">Hi 👋, I'm Rushikesh Padaval.</h1>
-<h3 align="center">A passionate Web developer and student from Maharashtra</h3>
+###
 
-#### 👷 Check out what I'm currently working on
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RushikeshPadaval&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=RushikeshPadaval&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />&emsp;&emsp;&emsp;
 
- - [RushikeshPadaval/Adaptive Automation of Workflow](https://github.com/RushikeshPadaval/Adaptive-Automation-of-Workflow) - A full-stack-web application for helping and managing the task using AI.
- 
- - [RushikeshPadaval/Job-Portal](https://github.com/RushikeshPadaval/Job_Portal) - A full-stack web application for applying the jobs  
+</div>
 
-#### Check My Work
- - [RushikeshPadaval/BookStore](https://github.com/RushikeshPadaval/BookStore) - A full-stack web application for managing and exploring books. Built with modern technologies, it allows users to browse, search, and manage a collection of books.
- - [Gemini-Clone](https://github.com/RushikeshPadaval/Gemini-clone)
- - [Portfolio](https://github.com/RushikeshPadaval/Portfolio)
+###
+<hr>
 
-#### 💬 Feedback
+## 🧰 Tech Toolbox
 
- Don't be shy and let me know what you liked
-and what needs being improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
+| Languages | Tools & Frameworks | Dev & Design | OS & Environments |
+|----------|--------------------|--------------|-------------------|
+| ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Go](https://skillicons.dev/icons?i=go)  | ![Node.js](https://skillicons.dev/icons?i=nodejs)   ![React](https://skillicons.dev/icons?i=react) | ![Figma](https://skillicons.dev/icons?i=figma)  ![VSCode](https://skillicons.dev/icons?i=vscode)  |  |
+| ![JavaScript](https://skillicons.dev/icons?i=js)  | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Notion](https://skillicons.dev/icons?i=notion) | ![Nix](https://skillicons.dev/icons?i=nix) |
 
-### 📫 How to reach me
-- linkedin: https://www.linkedin.com/in/rushi761/
-<!-- - Discord: <a href=""> zer0#1064</a>
-- dev.to:  -->
+---
 
-<!-- ### CV https://www.maurerkrisztian.com/
-.
+<hr>
 
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)! -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikeshpadaval&show_icons=true&locale=en&layout=compact" alt="rushikeshpadaval" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushikeshpadaval&show_icons=true&locale=en" alt="rushikeshpadaval" /></p>
 
+
+## 🏆 GitHub Trophies :
+![](https://github-profile-trophy.vercel.app/?username=RushikeshPadaval&theme=onedark&no-frame=false&no-bg=true&margin-w=20)
