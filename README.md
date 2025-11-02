@@ -14,9 +14,9 @@
 
 ## 🧰 Tech Toolbox
 
-| Languages | Tools & Frameworks | Dev & Design | OS & Environments |
-|----------|--------------------|--------------|-------------------|
-| ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Go](https://skillicons.dev/icons?i=go)  | ![Node.js](https://skillicons.dev/icons?i=nodejs)   ![React](https://skillicons.dev/icons?i=react) | ![Figma](https://skillicons.dev/icons?i=figma)  ![VSCode](https://skillicons.dev/icons?i=vscode)  |  |
+| Languages | Tools & Frameworks | Dev & Design |
+|----------|--------------------|--------------|
+| ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) | ![Node.js](https://skillicons.dev/icons?i=nodejs)   ![React](https://skillicons.dev/icons?i=react) | ![Figma](https://skillicons.dev/icons?i=figma)  ![VSCode](https://skillicons.dev/icons?i=vscode)  |  |
 | ![JavaScript](https://skillicons.dev/icons?i=js)  | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Notion](https://skillicons.dev/icons?i=notion) | ![Nix](https://skillicons.dev/icons?i=nix) |
 
 ---
